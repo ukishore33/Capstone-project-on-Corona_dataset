@@ -22,7 +22,7 @@ In coclusion the accuracy we get in knn, decision tree and random forest got 98%
 
 The project file is attached below.
 
-[The Project File](https://github.com/ukishore33/Capstone-Corona_dataset/blob/main/The%20Project%20file.ipynb)
+[The Project File](https://github.com/ukishore33/Capstone-project-on-Corona_dataset/blob/main/The_Project_file.ipynb)
 
 The data of the project file is attached in the link below.
 
