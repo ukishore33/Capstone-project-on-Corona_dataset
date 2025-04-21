@@ -40,3 +40,7 @@ The sql file which is attached below contains queries used to obtain observation
 
 [Covid SQL Queries](https://github.com/ukishore33/Capstone-Corona_dataset/blob/main/MySQL%20Corona_Db.sql)
 
+The Presentation file for data analysis is linked below.
+
+[Covid Data Analysis](https://github.com/ukishore33/Capstone-Corona_dataset/blob/main/Corona%20Data%20Analysis.pdf)
+
